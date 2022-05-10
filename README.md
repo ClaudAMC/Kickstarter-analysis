@@ -52,6 +52,8 @@ Using this function I specified the desired outcome, and the desired goal amount
 Next I summed the amounts of those counted columns in the "Total Projects" column using the SUM() function (e.g SUM(B2:D2)).
 Next, to calculate the percentage of Successful, Failed, and Canceled projects I divided the Number of successful campaigns to the Total Projects corresponding cell. I then formatted that column to present Percentage values from decimals numbers. For example the formula I used in cell F2 is =B2/$E2; This way the Column I and dividing remains the same "Total Projects" but the cell I divide is shifted to populate the cells around it.
 
+![Outcomes v Goals Table](https://user-images.githubusercontent.com/103139895/167729741-35e8a233-cc60-42d1-a9f8-24fe699047c7.png)
+
 Finally, using this percentage data and table I created a line chart. This way I can follow the trend of campaign outcomes by the fundraising goal they had.
 
 ![Outcomes_vs_Goal](https://user-images.githubusercontent.com/103139895/167728771-ce5bc308-f3c8-442c-9659-218ab926a356.png)
