@@ -1,5 +1,5 @@
 # Kickstarter-analysis with Excel
-Performing analysis on Kickstarter data to uncover trends
+### Performing analysis on Kickstarter data to uncover trends
 ---
 ## Overview of Project
 A playwright, Louise, is funding her play "Fever" via a crowdfunding campaign. Her play got close to her fundrasing goal and would now like some insight into how other campaigns fared based on two factors: the campaign launch date and the campaign goals.
@@ -77,8 +77,12 @@ From this we can conclued that campaigns launch in May may be more succesful tha
 
 ### Limitations of this Dataset
 
+A limitation of this study is that when looking at the "outcomes based on campaign goals" data it is skewed toward the lower goals - there are more campaigns that had lower goals (<15000). This means we have very few data points to look at and compare for campaigns that had higher goals. ideally we woould have many data points for each goal grouping this way we can more accuratly compare the campaign outcomes. Also according to this data no play campaigns were ever canceled. 
+Another limitation of this dataset is that the currency is not standerdized; this means the goal grouping may be missleading if Louise is assuming all monetary amounts are in USD - some of these campaigns may have been in GBP or CAD where if convereted to USD the goal grouping could change. Without having done this conversion there is no way of having full certainty that our grouping are correct with regard to USD currency values.
 
+### Other possible tables and/or graphs that we could create
 
-## Other possible tables and/or graphs that we could create
+Another table that could have been created was one depicting the outcomes based on the average donation and the number of backers for the subcatagory of plays. This way we could see if changes in the average donation for the number of backer a campaign had could affectt he success or failure of a campaign. Further breaking this information down by the goal grouping we created above could narrow down if donations were on average higher for lower goals or if they had more backers - perhaps having a lower goal leads to more backers or backers willing to give higher donations. It is possible this will also show us that there is no correlation between goal amount and average donations or number of backers.
 
+Finally, we could also look at location/ country were the campaigns are run - we can see if location has an impact on how successful a campaigns is. From this we can see where Lousie's play would be more likely to run a succesccful fundraising campaign.
 
