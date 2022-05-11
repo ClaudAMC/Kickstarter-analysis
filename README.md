@@ -64,10 +64,21 @@ The main challenges I encountered were withe the Outcomes Based on Goals workshe
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+### Conclusions about the Outcomes based on Launch Date
 
-- What can you conclude about the Outcomes based on Goals?
+1) One conclusion we can draw from the Theater Outcomes by Launch Date analysis is that there were more successeful campaigns launched in the month of May than in any other month; there were more succeful campaigns than both failed and canceled campaigns combined.
+From this we can conclued that campaigns launch in May may be more succesful than campaigns launched in any other months.
 
-- What are some limitations of this dataset?
+2) A second conclusion that we could draw is that December is the worst month to launch a campaign. During this month there were almost an equal amount of successful and failed campaigns. This could mean a campaign launched in December may be as likely to succed as it is to fail.
 
-- What are some other possible tables and/or graphs that we could create?
+### Conclusion about the Outcomes based on Goals
+
+1) One conclusion we can draw from the analysis of the outcomes based on campaign goals is that the general trend shows that as the goal increases the campagin is more liekly to fail. The most succesful campaigns have a goal under $1000 and as the goals increase there is a decrease in the percentage of succesful campigns. Similarly the percentage of campaigns that failed is lower for those with a goal under $1000, that percentage increases as the goal increases. Therefore lower campaigns goals may lead to a more successful campaign.
+
+### Limitations of this Dataset
+
+
+
+## Other possible tables and/or graphs that we could create
+
+
